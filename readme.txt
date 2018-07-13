@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Allow users to have and discover mutual friends they have in common made by the Founder & CEO of the Millionaire's Digest with the thanks of SuitePlugins for the original plugin!
+Allow users to have and discover mutual friends they have in common made by the Founder & CEO of the Millionaire's Digest with  special thanks and all credits going to SuitePlugins for the original plugin.
 
 == Installation ==
 
