@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Millionaire's Digest Mutual Friends
-Description: Allow users to have and discover mutual friends they have in common.
+Description: Allow users to discover mutual friends they have in common with other users.
 Version: 1.0.0
 Author: K&L (Founder of the Millionaire's Digest)
 Author URI: https://millionairedigest.com/
