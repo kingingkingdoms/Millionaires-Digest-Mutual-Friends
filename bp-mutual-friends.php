@@ -31,7 +31,8 @@ class BP_Mutual_Friends {
 		} 
 		
 		//Determine user
-		if( bp_displayed_user_domain() ) {
+		
+		if( bp_displayed_user_domain() && is_user_logged_in() ) {
 			$user_domain = bp_displayed_user_domain();
 		} else if( bp_loggedin_user_domain() ) {
 			$user_domain = bp_loggedin_user_domain();
